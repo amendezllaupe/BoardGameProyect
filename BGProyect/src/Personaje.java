@@ -22,5 +22,23 @@ public class Personaje {
         Random azar = new Random();
         return azar.nextInt(6)+1;
     }
+
+    public Objeto getObj() {
+        return obj;
+    }
+
+    public void setObj(Objeto obj) {
+        this.obj = obj;
+    }
+
+    public int getMov() {
+        return mov;
+    }
+
+    public void setMov(int mov) {
+        this.mov = mov;
+    }
+    
+    
     
 }
