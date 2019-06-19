@@ -21,25 +21,25 @@ Jugadores 2-4
 - Dado de 6 (Número)
 - Dado de 6 (Shot x 4, Miss x 2)
 # REGLAS
--3 acciones por turno
--Moverse
--Atacar
--Abrir Cofre
--Recoger Objetos
--Entrar en edificio
--Descansar (3 acciones)
--Montar guardia.
+- 3 acciones por turno
+- Moverse
+- Atacar
+- Abrir Cofre
+- Recoger Objetos
+- Entrar en edificio
+- Descansar (3 acciones)
+- Montar guardia.
 ## Personajes
--Inventario
+- Inventario
   Armas
   Armadura
   Mejoras
--Se botan las herramientas al conseguir otra (Se mantiene 1 ronda en mesa luego de desecharla).
--3 vidas
+- Se botan las herramientas al conseguir otra (Se mantiene 1 ronda en mesa luego de desecharla).
+- 3 vidas
   Cuando muere queda en el punto más lejano del círculo (dentro de la tormenta).
   Pierde el equipo.
 ### Armas
--(Francotirador x 2; Rifle de Asalto x 6; Pistola x 8; Escopeta x 4; Cuchillo x 5; Lanzagranadas x 5)
+- (Francotirador x 2; Rifle de Asalto x 6; Pistola x 8; Escopeta x 4; Cuchillo x 5; Lanzagranadas x 5)
   Francotirador : 5 de distancia ( en cualquier dirección menos o más distancia no puede disparar) + 5 daño.
   Rifle: 4 distancia + 3 daño
   Pistola: 3 de distancia (si encuentras otra gun tira el dado 2 veces, -1 distancia) + 2 daño
@@ -49,7 +49,7 @@ Jugadores 2-4
   Puño: +1 de daño.
   Escudo antibalas: +3 de defensa, sólo puedes equipar armas a una mano (pistola, cuchillo, puño).
 ### Armadura
--(Chaleco x 5; Coraza x 4; Casco x 8; Escudo x 3)
+- (Chaleco x 5; Coraza x 4; Casco x 8; Escudo x 3)
   Chaleco antibalas: +2 defensa, no funciona contra cuchillos.
   Coraza metálica: +2 de defensa, +2 contra cuchillos, -1 movimiento.
   Casco: +1 de defensa.
@@ -74,12 +74,12 @@ Jugadores 2-4
     Eres un Gallina McFly (Reactiva): Huye instantáneamente de un combate, no puedes atacar en tu siguiente turno.
     Pata’ en la Raja (1 uso, 1 Acción): Empujas en dirección del ataque 4 casillas, si lo haces no puedes atacar este turno.
 ### Mapa
--Mecánica desierto prohibido para tormenta. (Dado de Tormenta)
--TORMENTA:
+- Mecánica desierto prohibido para tormenta. (Dado de Tormenta)
+- TORMENTA:
     Inicia en turno 3
     Cada turno avanza 1 línea.
     Si jugador permanece más de 1 turno pierde una vida.
--Distribución de tablero :
+- Distribución de tablero :
   Cofre por Juego (se distribuyen después de elegir posición) :
     4 jugadores : 5 cofres
     3 jugadores : 4 cofres
