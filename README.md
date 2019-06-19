@@ -31,13 +31,13 @@ Jugadores 2-4
 - Montar guardia.
 ## Personajes
 - Inventario
-  Armas
-  Armadura
-  Mejoras
+ -- Armas
+ -- Armadura
+ -- Mejoras
 - Se botan las herramientas al conseguir otra (Se mantiene 1 ronda en mesa luego de desecharla).
 - 3 vidas
-  Cuando muere queda en el punto más lejano del círculo (dentro de la tormenta).
-  Pierde el equipo.
+ -- Cuando muere queda en el punto más lejano del círculo (dentro de la tormenta).
+ -- Pierde el equipo.
 ### Armas
 - (Francotirador x 2; Rifle de Asalto x 6; Pistola x 8; Escopeta x 4; Cuchillo x 5; Lanzagranadas x 5)
   Francotirador : 5 de distancia ( en cualquier dirección menos o más distancia no puede disparar) + 5 daño.
