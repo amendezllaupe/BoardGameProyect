@@ -39,9 +39,9 @@ Jugadores 2-4
  -- Cuando muere queda en el punto más lejano del círculo (dentro de la tormenta).
  -- Pierde el equipo.
 ### Armas
-- (Francotirador x 2; Rifle de Asalto x 6; Pistola x 8; Escopeta x 4; Cuchillo x 5; Lanzagranadas x 5)
-  Francotirador : 5 de distancia ( en cualquier dirección menos o más distancia no puede disparar) + 5 daño.
-  Rifle: 4 distancia + 3 daño
+ #### (Francotirador x 2; Rifle de Asalto x 6; Pistola x 8; Escopeta x 4; Cuchillo x 5; Lanzagranadas x 5)
+  - Francotirador : 5 de distancia ( en cualquier dirección menos o más distancia no puede disparar) + 5 daño.
+  - Rifle: 4 distancia + 3 daño
   Pistola: 3 de distancia (si encuentras otra gun tira el dado 2 veces, -1 distancia) + 2 daño
   Escopeta: 2 distancia +4 daño.
   Cuchillo : 1 distancia (Contrincante en estructura es vulnerable si estas dentro de edificio) +2 daño
@@ -54,25 +54,25 @@ Jugadores 2-4
   Coraza metálica: +2 de defensa, +2 contra cuchillos, -1 movimiento.
   Casco: +1 de defensa.
 ### Mejoras
-  Habilidades Pasivas
-    Duelo a muerte con cuchillo : Atacar 1 vez más con cuchillo (max 3 veces por turno).
-    Mira mamá, soy Robin Hood : +1 Distancia, -1 ATK.
-    Fat Man : reemplaza el rango a 5x5 del lanzagranadas.
-    Sed de sangre : +1 daño, -1 de defensa.
-    Señor del pantano : +1 defensa, - 1 movimiento.
-    Capa de ladrón : +1 movimiento -1 defensa
-    Pata de conejo : Vuelves a tirar el dado(1 vez por turno), -1 ataque si es tu segunda tirada.
-    Momia Triste : -3 movimiento y -1 Atk, +3 defensa.
-  Habilidades Activas
-    Desnudo pero poderoso (1 uso / 1 acción) : Pierde su armadura, si tu arma tiene un rango de 2 o menos +3 al daño, de lo contrario +1 al daño.
-    ¡Atrás, Soy el Tanque! (1 uso / 1 Acción) : Todo el daño que te hagan se vuelve 0, no puede atacar el siguiente turno.
-    Presta pa’cá (1 uso / 2 acciones) : Recoge un arma del tablero (no importa su distancia).
-    ¿Acaso no lo viste venir? (Reactiva) : Anula una habilidad contrincante, pierdes una acción tu siguiente turno.
-    WallHack (1 uso / 2 acciones) : +3 de ataque si el objetivo está en estructuras.
-    No llores por mí, ya estoy muerto (1 uso / 1 acción) : Se activa antes de tirar el dado de precisión. Si el resultado es 6 y acierta, mata al objetivo. De lo contrario pierde una vida.
-    Soy Thor, hijo de odín, dios del trueno… (1 uso, 1 Acción) : Sobrevives 1 turno extra a la tormenta. +3 de daño si estas en ella, pierdes 2 acciones el siguiente turno.
-    Eres un Gallina McFly (Reactiva): Huye instantáneamente de un combate, no puedes atacar en tu siguiente turno.
-    Pata’ en la Raja (1 uso, 1 Acción): Empujas en dirección del ataque 4 casillas, si lo haces no puedes atacar este turno.
+ #### Habilidades Pasivas
+   - Duelo a muerte con cuchillo : Atacar 1 vez más con cuchillo (max 3 veces por turno).
+   - Mira mamá, soy Robin Hood : +1 Distancia, -1 ATK.
+   - Fat Man : reemplaza el rango a 5x5 del lanzagranadas.
+   - Sed de sangre : +1 daño, -1 de defensa.
+   - Señor del pantano : +1 defensa, - 1 movimiento.
+   - Capa de ladrón : +1 movimiento -1 defensa
+   - Pata de conejo : Vuelves a tirar el dado(1 vez por turno), -1 ataque si es tu segunda tirada.
+   - Momia Triste : -3 movimiento y -1 Atk, +3 defensa.
+ #### Habilidades Activas
+   - Desnudo pero poderoso (1 uso / 1 acción) : Pierde su armadura, si tu arma tiene un rango de 2 o menos +3 al daño, de lo contrario +1 al daño.
+   - ¡Atrás, Soy el Tanque! (1 uso / 1 Acción) : Todo el daño que te hagan se vuelve 0, no puede atacar el siguiente turno.
+   - Presta pa’cá (1 uso / 2 acciones) : Recoge un arma del tablero (no importa su distancia).
+   - ¿Acaso no lo viste venir? (Reactiva) : Anula una habilidad contrincante, pierdes una acción tu siguiente turno.
+   - WallHack (1 uso / 2 acciones) : +3 de ataque si el objetivo está en estructuras.
+   - No llores por mí, ya estoy muerto (1 uso / 1 acción) : Se activa antes de tirar el dado de precisión. Si el resultado es 6 y acierta, mata al objetivo. De lo contrario pierde una vida.
+   - Soy Thor, hijo de odín, dios del trueno… (1 uso, 1 Acción) : Sobrevives 1 turno extra a la tormenta. +3 de daño si estas en ella, pierdes 2 acciones el siguiente turno.
+   - Eres un Gallina McFly (Reactiva): Huye instantáneamente de un combate, no puedes atacar en tu siguiente turno.
+   - Pata’ en la Raja (1 uso, 1 Acción): Empujas en dirección del ataque 4 casillas, si lo haces no puedes atacar este turno.
 ### Mapa
 - Mecánica desierto prohibido para tormenta. (Dado de Tormenta)
 - TORMENTA:
