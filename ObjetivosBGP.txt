@@ -1,0 +1,16 @@
+Objetivos:
+
+1. Terminar modelo uml.
+	- Agregar atributos y metodos minimos.
+	- Crear clases nuevas para manejo de datos.
+	- Revisar relaciones entre clases.
+2. Trabajar en el proyecto java.
+	- Datos:
+		- Tranformar parametros de archivo en objetos.
+		- Escritura de logs para pruebas.
+	- Controlador:
+		- Definir reglas especiales e interacciones ( condicion de derrota ).
+		- Hacer un inventario utilizable.
+	- Pruebas:
+		- Crear inventarios con todas las combinaciones de cartas.
+		- Utilizar interacciones entre 2 jugadores.		
