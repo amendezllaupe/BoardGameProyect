@@ -42,27 +42,27 @@ Jugadores 2-4
  #### (Francotirador x 2; Rifle de Asalto x 6; Pistola x 8; Escopeta x 4; Cuchillo x 5; Lanzagranadas x 5)
   - Francotirador : 5 de distancia ( en cualquier dirección menos o más distancia no puede disparar) + 5 daño.
   - Rifle: 4 distancia + 3 daño
-  Pistola: 3 de distancia (si encuentras otra gun tira el dado 2 veces, -1 distancia) + 2 daño
-  Escopeta: 2 distancia +4 daño.
-  Cuchillo : 1 distancia (Contrincante en estructura es vulnerable si estas dentro de edificio) +2 daño
-  LanzaGranada(3 usos) : 3 distancia, daño en área (3x3 casillas) (si dado + defensa es menor o igual a 3 muere) ( se puede cambiar)
-  Puño: +1 de daño.
-  Escudo antibalas: +3 de defensa, sólo puedes equipar armas a una mano (pistola, cuchillo, puño).
+  - Pistola: 3 de distancia (si encuentras otra gun tira el dado 2 veces, -1 distancia) + 2 daño
+  - Escopeta: 2 distancia +4 daño.
+  - Cuchillo : 1 distancia (Contrincante en estructura es vulnerable si estas dentro de edificio) +2 daño
+  - LanzaGranada(3 usos) : 3 distancia, daño en área (3x3 casillas) (si dado + defensa es menor o igual a 3 muere) ( se puede cambiar)
+  - Puño: +1 de daño.
+  - Escudo antibalas: +3 de defensa, sólo puedes equipar armas a una mano (pistola, cuchillo, puño).
 ### Armadura
-- (Chaleco x 5; Coraza x 4; Casco x 8; Escudo x 3)
-  Chaleco antibalas: +2 defensa, no funciona contra cuchillos.
-  Coraza metálica: +2 de defensa, +2 contra cuchillos, -1 movimiento.
-  Casco: +1 de defensa.
+  - (Chaleco x 5; Coraza x 4; Casco x 8; Escudo x 3)
+  - Chaleco antibalas: +2 defensa, no funciona contra cuchillos.
+  - Coraza metálica: +2 de defensa, +2 contra cuchillos, -1 movimiento.
+  - Casco: +1 de defensa.
 ### Mejoras
  #### Habilidades Pasivas
-   - Duelo a muerte con cuchillo : Atacar 1 vez más con cuchillo (max 3 veces por turno).
-   - Mira mamá, soy Robin Hood : +1 Distancia, -1 ATK.
-   - Fat Man : reemplaza el rango a 5x5 del lanzagranadas.
-   - Sed de sangre : +1 daño, -1 de defensa.
-   - Señor del pantano : +1 defensa, - 1 movimiento.
-   - Capa de ladrón : +1 movimiento -1 defensa
-   - Pata de conejo : Vuelves a tirar el dado(1 vez por turno), -1 ataque si es tu segunda tirada.
-   - Momia Triste : -3 movimiento y -1 Atk, +3 defensa.
+  - Duelo a muerte con cuchillo : Atacar 1 vez más con cuchillo (max 3 veces por turno).
+  - Mira mamá, soy Robin Hood : +1 Distancia, -1 ATK.
+  - Fat Man : reemplaza el rango a 5x5 del lanzagranadas.
+  - Sed de sangre : +1 daño, -1 de defensa.
+  - Señor del pantano : +1 defensa, - 1 movimiento.
+  - Capa de ladrón : +1 movimiento -1 defensa
+  - Pata de conejo : Vuelves a tirar el dado(1 vez por turno), -1 ataque si es tu segunda tirada.
+  - Momia Triste : -3 movimiento y -1 Atk, +3 defensa.
  #### Habilidades Activas
    - Desnudo pero poderoso (1 uso / 1 acción) : Pierde su armadura, si tu arma tiene un rango de 2 o menos +3 al daño, de lo contrario +1 al daño.
    - ¡Atrás, Soy el Tanque! (1 uso / 1 Acción) : Todo el daño que te hagan se vuelve 0, no puede atacar el siguiente turno.
