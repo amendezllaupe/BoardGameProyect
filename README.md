@@ -76,21 +76,21 @@ Jugadores 2-4
 ### Mapa
 - Mecánica desierto prohibido para tormenta. (Dado de Tormenta)
 - TORMENTA:
-    Inicia en turno 3
-    Cada turno avanza 1 línea.
-    Si jugador permanece más de 1 turno pierde una vida.
+ - Inicia en turno 3
+ - Cada turno avanza 1 línea.
+ - Si jugador permanece más de 1 turno pierde una vida.
 - Distribución de tablero :
-  Cofre por Juego (se distribuyen después de elegir posición) :
-    4 jugadores : 5 cofres
-    3 jugadores : 4 cofres
-    2 jugadores : 3 cofres.
-  Luego de que se consuma un cofre se repone en otra zona
-  Contenido Cofre:
-    1 Mejora
-    2 cartas de set, se sacan de la parte superior del mazo.
-  Construcciones
-    Edificios: Se puede entrar (Gasta una acción, +2 a la defensa de ataques a distancia)
-    Ruinas: No se pueden atravesar.
+  - Cofre por Juego (se distribuyen después de elegir posición) :
+   - 4 jugadores : 5 cofres
+   - 3 jugadores : 4 cofres
+   - 2 jugadores : 3 cofres.
+  - Luego de que se consuma un cofre se repone en otra zona
+  - Contenido Cofre:
+   - 1 Mejora
+   - 2 cartas de set, se sacan de la parte superior del mazo.
+- Construcciones
+   - Edificios: Se puede entrar (Gasta una acción, +2 a la defensa de ataques a distancia)
+   - Ruinas: No se pueden atravesar.
 ## ¿Cómo se Juega?
 La finalidad del juego es sobrevivir en una arena contra el resto de los jugadores. El tamaño de la arena se va reduciendo cada cierto tiempo por una tormenta lo que aumentará el número de encuentros por ronda.
 ### Preparando la Partida
@@ -98,13 +98,13 @@ Se revuelven los lotes del mapa (a excepción del ojo de sauron) y se parte colo
 Antes de empezar la partida cada jugador debe tirar el dado numerado 2 veces (sumando el resultado de ambas tiradas), siendo el jugador con un número mayor el que partirá jugando, posteriormente el resto jugará en orden de las agujas del reloj. Por otro lado el jugador con menos puntos elige primero su zona de partida, luego le seguirán el resto de jugadores en sentido anti-horario. Después se deben ordenar los cofres, tomando una cantidad al al azar según se especifique en la sección de distribución del tablero.
 ### Comienza la Partida
 El jugador realizará 2 acciones, podrá decidir entre las presentes en la tabla de acciones (no puede realizar la misma acción 2 veces), a excepción de la acción Descansar que gasta las 2 acciones. Se explicaran cada acción a continuación:
-  Moverse : Lanza el dado numerado, el jugador debe moverse la cantidad de casillas que indican el dado. (Si algún objeto del set aumenta o disminuye el movimiento, el jugador se moverá la cantidad numerada sumando la diferencia de movimiento según corresponda, si la diferencia es menor a 0 no se mueve).
-  Atacar : (Solo si el rango del arma + habilidades se lo permite). Lanza el dado numerado y el dado de precisión, la cantidad numerada indica la cantidad de daño que ejerce, si el dado de precisión resulta en fallo el daño se reduce a 0.
-  Abrir Cofre: Si hay un cofre a una casilla de tu posición puedes abrirlo (retira la ficha de cofre y la colocas fuera del juego).
-  Recoger Objeto: Si hay un objeto a una casilla de tu posición puedes recogerlo, desecha obligatoriamente un objeto del mismo que tipo que tengas en tu inventario, quedándose en la mismo posición dentro del campo (Excepciones: Si tienes 1 pistola y recoges un cuchillo u otra pistola, Si tienes 1 cuchillo y recoges otro cuchillo o pistola).
-  Entrar a edificio: Si hay un edificio a una casilla de tu posición puedes entrar, al entrar no puedes realizar otra acción a excepción de montar guardia, al menos que desees salir de él.
-  Montar guardia: Mantiene tu posición, aumenta +1 un stat por una ronda (Ataque, Defensa, Distancia).
-  *Descansar: Pasar, el resto tiene derecho a llamarlo Gallina McFly, puedes tirar una segunda el vez el dado de precisión en caso de fallo el siguiente turno.
-  Usar Habilidad.
+ - Moverse : Lanza el dado numerado, el jugador debe moverse la cantidad de casillas que indican el dado. (Si algún objeto del set aumenta o disminuye el movimiento, el jugador se moverá la cantidad numerada sumando la diferencia de movimiento según corresponda, si la diferencia es menor a 0 no se mueve).
+ - Atacar : (Solo si el rango del arma + habilidades se lo permite). Lanza el dado numerado y el dado de precisión, la cantidad numerada indica la cantidad de daño que ejerce, si el dado de precisión resulta en fallo el daño se reduce a 0.
+ - Abrir Cofre: Si hay un cofre a una casilla de tu posición puedes abrirlo (retira la ficha de cofre y la colocas fuera del juego).
+ - Recoger Objeto: Si hay un objeto a una casilla de tu posición puedes recogerlo, desecha obligatoriamente un objeto del mismo que tipo que tengas en tu inventario, quedándose en la mismo posición dentro del campo (Excepciones: Si tienes 1 pistola y recoges un cuchillo u otra pistola, Si tienes 1 cuchillo y recoges otro cuchillo o pistola).
+ - Entrar a edificio: Si hay un edificio a una casilla de tu posición puedes entrar, al entrar no puedes realizar otra acción a excepción de montar guardia, al menos que desees salir de él.
+ - Montar guardia: Mantiene tu posición, aumenta +1 un stat por una ronda (Ataque, Defensa, Distancia).
+ - *Descansar: Pasar, el resto tiene derecho a llamarlo Gallina McFly, puedes tirar una segunda el vez el dado de precisión en caso de fallo el siguiente turno.
+ - Usar Habilidad.
 
 Luego de terminar tu turno el siguiente jugador podrá jugar.
