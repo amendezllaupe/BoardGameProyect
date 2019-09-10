@@ -11,8 +11,7 @@ Cauzela wars
 Mine Game
 Jugadores 2-4
 
-## Bitácora de reunión.
-https://docs.google.com/document/d/1xyqImRAkEnPTEWx2U4SbXiS3Ln_scqE10PvIRVSBm8E/edit?usp=sharing
+Race for the Star
 
 ## ELEMENTOS
 - 4 fichas de personaje
