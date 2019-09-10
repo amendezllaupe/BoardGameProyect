@@ -13,6 +13,9 @@ Jugadores 2-4
 
 Race for the Star
 
+##Bitácora de proyecto
+https://docs.google.com/document/d/1xyqImRAkEnPTEWx2U4SbXiS3Ln_scqE10PvIRVSBm8E/edit?usp=sharing
+
 ## ELEMENTOS
 - 4 fichas de personaje
 - 4 Tarjetas de personaje
