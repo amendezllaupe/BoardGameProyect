@@ -22,13 +22,7 @@ https://docs.google.com/document/d/1xyqImRAkEnPTEWx2U4SbXiS3Ln_scqE10PvIRVSBm8E/
 	Torreta (mas daño mientras mas cerca)
 				Lockdown (inmoviliza a enemigos en area cercana)
 ##### Link (Ese es de TLOZ, aparece en el brawl)
-##### PJ troll (Stormtrooper)
-    Si ganas con el puedes flexear
-    Oneshot si sale 6
-    si no, falla
-    O que este personaje solo pueda pegar “criticos” (para tener habilidades que puedan interactuar con el)
-    
-    propuestas para LINK
+  propuestas para LINK
 
 Equipo inicial:
 -sable laser
@@ -47,6 +41,13 @@ Super Imán (activa): Link guarda en su bolsillo un super imán que puede hacer 
 
 Rompe corazones (pasiva): Cuando Link mata a un oponente, puede destripar el cadáver para comerse el corazón. En caso de hacerlo, Link recupera vida, en caso de tenerla toda, adquiere una vida extra.Esto requiere que Link esté junto al cadáver e invierta 1 acción. En caso de que el objetivo no tenga corazón, Link no obtiene nada. (No era lo que pensabas, o si?)
 
+
+##### PJ troll (Stormtrooper)
+    Si ganas con el puedes flexear
+    Oneshot si sale 6
+    si no, falla
+    O que este personaje solo pueda pegar “criticos” (para tener habilidades que puedan interactuar con el)
+    
 ##### Rocket (Desarrollo)
     2 variantes de equipo:
       - equipo parchado (saqueado y modificado pero con probabilidad de no funcionar)
